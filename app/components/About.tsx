@@ -2,7 +2,7 @@
 
 const stats = [
   { label: "Projects Built", value: "20+" },
-  { label: "LeetCode Solved", value: "300+" },
+  { label: "LeetCode Solved", value: "1100+" },
   { label: "GitHub Repos", value: "40+" },
   { label: "Years Coding", value: "3+" },
 ];
